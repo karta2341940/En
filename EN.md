@@ -17,18 +17,18 @@ that cause you are shame to take out ur card. Don't worried about that anymore.
 Today I aka blue diamond lecturer will tell you How to make a beautiful and successful business card.
 (next page)
 
-A successful and beautiful business card must have this 4 element 
+A successful and beautiful business card must have this 3 element
 
 # Title 
 How to create your own business card.
 
-# Page 1
 
+# Page 1
 ## Title 
-4 element
+3 elements
 ## content 
 - infomation 
 - fashionable
-
+- clearly
 
 
