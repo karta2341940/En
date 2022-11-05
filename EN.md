@@ -39,6 +39,17 @@ you can choose one by what image you want to shows
 
 (next page)
 
+Clearly 
+
+it's the most important point in this presentation that make sure your card be cleary 
+
+if your card is messy what people would look about you. 
+
+what would you think if someone's face is dirty .
+business card likes our face if it's messy people will not to take care it.
+Then your card is not card anymore ,it's garbage now .
+so it's important to make sure the card clearly.
+
 
 
 
