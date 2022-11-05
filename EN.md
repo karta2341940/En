@@ -15,14 +15,36 @@ Do you have the experience that other one's business card is more beautiful than
 that cause you are shame to take out ur card. Don't worried about that anymore.
 
 Today I aka blue diamond lecturer will tell you How to make a beautiful and successful business card.
+
 (next page)
 
-A successful and beautiful business card must have this 3 elements 
-First information
-information is very important 
+I think a successful and beautiful business card have this 3 elements 
+Information、Fashionable and Clearly
 
-# Title 
-How to create your own business card.
+Information
+
+It is very important to let people know more about you.
+The information you want to show people must be short and clearly also it's very important the information must the Key info. Don't put the garbage info on the samll paper like the picture shows.
+
+(next page)
+
+Fashionable
+
+A fashionable card can catch people's eyes there have two style you can choose 
+
+one is colorful another is simple
+
+Colorful can set up a energetic image and Simple will set up a professional image
+you can choose one by what image you want to shows
+
+(next page)
+
+
+
+
+# (PPT Title)
+## Title 
+Create Successful Business Card.
 
 
 # Page 1
