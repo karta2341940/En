@@ -1,10 +1,16 @@
 import { createApp } from 'vue';
 import { createPinia} from 'pinia';
-import lz from 'vue-lazyload';
+import lazyLoad from 'vue-lazyload';
 import app from './vue/index.vue';
-
+import errorimage from './vue/componenet/img/error.png'
+import loadimage from './vue/componenet/img/error.png'
 const pinia = createPinia()
 createApp(app)
-.use(lz)
+.use(lazyLoad,{
+    preLoad:1.3,
+    error: errorimage,
+    loading: loadimage,
+    attempt: 1
+})
 .use(pinia)
 .mount("#app");
