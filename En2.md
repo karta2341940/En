@@ -52,9 +52,3 @@ Diane :
 ```
 okay, fine~
 ```
-<style>
-    *{
-        margin:0px;
-        background-color: #000000;
-    }
-</style>
