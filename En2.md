@@ -11,7 +11,7 @@ Xian,浿昀 :
 It's okay there are so many children singing 
 this song after watching our advertisement.
 ```
-sporting , Ru :
+博婷 , 芊儒 :
 ```
 (Singing Nike 999 together)
 (Move camera to the shoebox)
@@ -44,7 +44,7 @@ it's too expensive!
 ```
 Mom, I really want this shoes.
 ```
-Xian,浿昀(sporting , Ru?) : 
+Xian,浿昀(博婷 , 芊儒?) : 
 ```
 Just do it.
 ```
@@ -52,3 +52,9 @@ Diane :
 ```
 okay, fine~
 ```
+
+<style>
+    *{
+        margin:0px;
+    }
+</style>
